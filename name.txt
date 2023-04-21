@@ -1,3 +1,6 @@
 REBBA.SAI GIRESH
+----colors----
 SKIN
 PURPLE
+BLUE
+YELLOW
